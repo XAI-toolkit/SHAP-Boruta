@@ -1,0 +1,5 @@
+site_name: SHAP-Boruta
+repo_url: https://github.com/XAI-toolkit/SHAP-Boruta
+
+nav:
+  - SHAP-Boruta: 'index.md'
